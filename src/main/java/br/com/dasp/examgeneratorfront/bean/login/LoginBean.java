@@ -3,7 +3,7 @@ package br.com.dasp.examgeneratorfront.bean.login;
 
 import br.com.dasp.examgeneratorfront.custom.CustomURLEncoderDecoder;
 import br.com.dasp.examgeneratorfront.persistence.dao.LoginDAO;
-import br.com.dasp.examgeneratorfront.persistence.model.Token;
+import br.com.dasp.examgeneratorfront.persistence.model.support.Token;
 
 import javax.faces.context.ExternalContext;
 import javax.faces.view.ViewScoped;

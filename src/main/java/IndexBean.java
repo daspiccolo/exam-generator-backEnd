@@ -1,6 +1,6 @@
 import br.com.dasp.examgeneratorfront.persistence.dao.LoginDAO;
 import br.com.dasp.examgeneratorfront.persistence.dao.ProfessorDAO;
-import br.com.dasp.examgeneratorfront.persistence.model.Token;
+import br.com.dasp.examgeneratorfront.persistence.model.support.Token;
 
 import javax.faces.view.ViewScoped;
 import javax.inject.Inject;

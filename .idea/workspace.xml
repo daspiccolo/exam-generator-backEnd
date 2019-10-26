@@ -6,19 +6,53 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9987bad-b8fe-4d0b-a8a8-67a48b39e542" name="Default Changelist" comment="" />
+    <list default="true" id="f9987bad-b8fe-4d0b-a8a8-67a48b39e542" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/annotation/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/interceptor/ExceptionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/exam_generator_front_jsf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/exam_generator_front_jsf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam-generator-front-jsf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam-generator-front-jsf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/IndexBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/IndexBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/model/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/lib/httpclient-4.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/lib/httpcore-4.4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IndexBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/bean/login/LoginBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/bean/login/LoginBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/model/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IndexBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IndexBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/model/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/beans.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="exam-generator-front-jsf" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -36,25 +70,33 @@
   </component>
   <component name="ProjectId" id="1RqLLqdzMPpxCJs4y2AxeDBTivX" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\src\main\java\br\com\dasp\examgeneratorfront" />
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web\WEB-INF" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.dasp.examgeneratorfront.config" />
       <recent name="br.com.dasp.examgeneratorfront.filter" />
       <recent name="br.com.dasp.examgeneratorfront.persistence.dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\src\main\java\br\com\dasp\examgeneratorfront" />
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web\WEB-INF" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,7 +115,7 @@
     <configuration name="index.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/exam_generator_front_jsf_war_exploded/index.xhtml">
       <method v="2" />
     </configuration>
-    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.xhtml" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -169,10 +211,25 @@
       <updated>1570389628005</updated>
       <workItem from="1570389635801" duration="5044000" />
       <workItem from="1570397862773" duration="6314000" />
+      <workItem from="1570449437058" duration="2085000" />
+      <workItem from="1572046252630" duration="7495000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
