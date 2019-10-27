@@ -10,6 +10,7 @@ import java.time.LocalDateTime;
 public class ErrorDetail {
     @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss.SSSZZZ")
     private LocalDateTime timestamp;
+
     private  int status;
     private String error;
     private String message;

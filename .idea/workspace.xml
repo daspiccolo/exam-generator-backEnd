@@ -7,32 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9987bad-b8fe-4d0b-a8a8-67a48b39e542" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/annotation/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/interceptor/ExceptionInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/exam_generator_front_jsf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/exam_generator_front_jsf.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exam-generator-front-jsf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam-generator-front-jsf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/IndexBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/IndexBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/model/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/lib/httpclient-4.5.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/lib/httpcore-4.4.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IndexBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/bean/login/LoginBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/bean/login/LoginBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exam_generator_front_jsf/WEB-INF/classes/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/model/Token.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IndexBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IndexBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/bean/login/LoginBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/dao/LoginDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/model/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/dasp/examgeneratorfront/persistence/model/support/ErrorDetail.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,23 +62,27 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\src\main\java\br\com\dasp\examgeneratorfront" />
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web\WEB-INF" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\exam-generator-front-jsf\web" />
+      <recent name="J:\exam-generator-front-jsf\web\WEB-INF" />
+      <recent name="J:\exam-generator-front-jsf\src\main\resources\static\public" />
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.dasp.examgeneratorfront.config" />
       <recent name="br.com.dasp.examgeneratorfront.filter" />
       <recent name="br.com.dasp.examgeneratorfront.persistence.dao" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\src\main\java\br\com\dasp\examgeneratorfront" />
+      <recent name="C:\Users\debor\IdeaProjects\exam-generator-front-jsf\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -112,11 +98,11 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.24">
-    <configuration name="index.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/exam_generator_front_jsf_war_exploded/index.xhtml">
+    <configuration name="index.xhtml" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/exam_generator_front_jsf_war_exploded/index.xhtml">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.xhtml" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/exam_generator_front_jsf_war_exploded/index.xhtml" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
@@ -193,11 +179,6 @@
       <item itemvalue="JavaScript Debug.index.xhtml" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.24" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.xhtml" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -212,8 +193,17 @@
       <workItem from="1570389635801" duration="5044000" />
       <workItem from="1570397862773" duration="6314000" />
       <workItem from="1570449437058" duration="2085000" />
-      <workItem from="1572046252630" duration="7495000" />
+      <workItem from="1572046252630" duration="7627000" />
+      <workItem from="1572177144108" duration="5544000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula 16">
+      <created>1572054040089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572054040089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,5 +221,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 16" />
   </component>
 </project>

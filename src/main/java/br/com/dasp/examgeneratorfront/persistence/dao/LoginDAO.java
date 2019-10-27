@@ -36,7 +36,6 @@ public class LoginDAO implements Serializable { // classe responsavel por fazer 
     @ExceptionHandler
     public Token loginReturnToken(String username, String password) throws IOException {
         String loginJson = "{\"username\":" + addQuotes(username) + ",\"password\": " + addQuotes(password) + "}";
-        RestTemplate restTemplate = new RestTemplate(new HttpComponentsClientHttpRequestFactory());
         ResponseEntity<Token> tokenExchange = restTemplate.exchange(BASE_URL, POST, new HttpEntity<>(loginJson, jsonUtil.createJsonHeaders()), Token.class);
         return tokenExchange.getBody();
     }
